@@ -1,4 +1,4 @@
-package cn.net.aipic.spring.cloud.weather.service.controller;
+package cn.net.aipic.spring.cloud.weather.controller;
 
 import cn.net.aipic.spring.cloud.weather.service.CityDataService;
 import cn.net.aipic.spring.cloud.weather.vo.City;
